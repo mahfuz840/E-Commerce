@@ -1,0 +1,27 @@
+body {
+ background-image: url("https://miro.medium.com/max/1200/1*eUFJ5BNpw3xSZxK3BhVHxw.jpeg");
+ height: 100%; 
+ background-position: center;
+ background-repeat: no-repeat;
+ background-size: cover;
+}
+.dropDown {
+	height: 30px;
+	width: 300px;
+	font-size: 16px;
+}
+.back {
+  opacity: 0.1;
+  filter: alpha(opacity=50); /* For IE8 and earlier */
+}
+
+.hi{background-color: #4d3868;}
+a:hover{
+    text-decoration: none;
+
+    font-size: 19px;
+  
+font-family: fantasy;
+}
+a{font-family: Comic Sans Ms;
+}
